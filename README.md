@@ -35,6 +35,37 @@ The overall website's was planned with one page with several sections hilighting
 
 ![picture](assets/images/wireframe.png)
 
+# Fetures & Layout
+
+The final product of the different webpages came out as intended displaying one page with different sections
+
+![picture](assets/images/screenshot.png)
+
+The website has a total of 7 sections. Each section can be navigated with the use of the side bar.
+
+1. About
+2. Favourite Quotes
+3. Experience
+4. Education
+5. Skills
+6. Favourite Coding Resources
+7. Favourite Coding Challenges
+
+![picture](assets/images/sidenavbar.png)
+
+Each menu item of the navbar will magnify when clicked
+
+![picture](assets/images/sidenavbar2.png)
+
+
+
+
+
+
+
+
+
+
 # Features left to implement
 
 Future coding projetcs can be uploaaded for potential employers to  access my coding skills.
@@ -46,9 +77,9 @@ The code was put through th Jigsaw and W3 markup validator and the results are i
 ![picture](assets/images/w3c.png)
 
 
-The final product of the different webpages came out as intended displaying one page with different sections
 
-![picture](assets/images/screenshot.png)
+
+
 
 
 # Deployment
