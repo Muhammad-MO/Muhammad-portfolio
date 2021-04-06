@@ -48,7 +48,7 @@ The code was put through th Jigsaw and W3 markup validator and the results are i
 
 The final product of the different webpages came out as intended displaying one page with different sections
 
-![picture](image/screenshot.png)
+![picture](assets/images/screenshot.png)
 
 
 # Deployment
