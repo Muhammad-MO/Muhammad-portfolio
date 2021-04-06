@@ -10233,6 +10233,11 @@ img.d-block{
 
   a{
     color:black;
-    
-    
-  }
+   
+     }
+
+
+    .flex-shrink-0{
+
+      font-size:20px;
+    }
