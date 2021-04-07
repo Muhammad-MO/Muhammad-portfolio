@@ -35,7 +35,7 @@ The overall website's was planned with one page with several sections hilighting
 
 ![picture](assets/images/wireframe.png)
 
-# Fetures & Layout
+# Layout
 
 The final product of the different webpages came out as intended displaying one page with different sections.
 I utilised the <section> tags to achieve a single page with different sections.
@@ -52,13 +52,14 @@ The website has a total of 7 sections. Each section can be navigated with the us
 6. Favourite Coding Resources
 7. Favourite Coding Challenges
 
+# Features & Testing
 ** Navigation Bar **
 
 ![picture](assets/images/sidenavbar.png)
 
 Each menu item of the navbar will magnify when clicked.
 
-![picture](assets/images/sidenavbar2.PNG)
+![picture](assets/images/sidenavbar2.png)
 
 ** Responsiveness **
 
@@ -84,48 +85,26 @@ To further showcamse my understanding of HTML and CSS, I implemented a carousel 
 
 ![picture](assets/images/carosuel.png)
 
+** Code Validator **
+The code was put through th Jigsaw and W3 markup validator and the results are in the screenshot below
+![picture](assets/images/HTMLchecker.png)
+![picture](assets/images/w3c.png)
 
+** Social Media **
+Clicking on the social media icons brings the user to my social media page which was displayed in in another tab/window.
+I achieved this by setting the "target" = blank  within the <a></a> link.
 
+<a class="social-icon" href="https://github.com/Muhammad-MO" target="blank"><i class="fab fa-github"></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![picture](assets/images/socialmedia.png)
 
 # Features left to implement
 
 Future coding projetcs can be uploaaded for potential employers to  access my coding skills.
 
-
-# Testing
-The code was put through th Jigsaw and W3 markup validator and the results are in the screenshot below
-![picture](assets/images/HTMLchecker.png)
-![picture](assets/images/w3c.png)
-
-
-
-
-
-
-
 # Deployment
 
 My site was deployed using Github's paltform.<a href="https://muhammad-mo.github.io/Muhammad-portfolio/" target="blank">Click here</a> to see the webpage
-
-1)  In the deployed version, the cards under "My Favourite Website" did not appear in-line when
-the page was deployed.
-
-2) Social Media icons "Twitter" did not appear in the deployed pages.
 
 # Content
 
@@ -133,12 +112,10 @@ All content was authored by me.
 
 # Media
 
-Pictures were taken from personal drive .
-Website icons were taken from the respective websites.
-1) https://www.flaticon.com </br>
-2) https://icons8.com/icons
+Pictures for the carousel were taken from the respective websites.
+1) https://theultralinx.com/ 
+2) https://www.realsimple.com/
 
-Pictures in relation to "my favourite websites" were taken from the respective websites.
 
 # Credit
 
@@ -148,17 +125,9 @@ References and bootstrap codes were used from the following websites
 2. https://www.w3schools.com
 3. https://www.w3.org/
 4. https://getbootstrap.com/
+5. https://startbootstrap.com/themes
 
-I would like to thank the following people for contributing ideas and their guidance
-during the tedious troubleshooting times.
 
-1.Ariff</br>
-2.Malcolm</br>
-3.Paul</br>
-4.Shun</br>
-5.Alex</br>
-6.Classmates of batch 10</br>
-7.Kelly (TGC)
 
 
 
