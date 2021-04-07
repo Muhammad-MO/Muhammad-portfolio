@@ -58,17 +58,17 @@ The website has a total of 7 sections. Each section can be navigated with the us
 
 Each menu item of the navbar will magnify when clicked.
 
-![picture](assets/images/sidenavbar2.png)
+![picture](assets/images/sidenavbar2.PNG)
 
 ** Responsiveness **
 
 The screen responds well to various mobile devices.
 
-![picture](assets/images/responsive.png)
+![picture](assets/images/responsive.PNG)
 
 A hamburger type menu button drops down when pressed, revealing the different menu itmes allowing the users to navigate to different sections.
 
-![picture](assets/images/menudrop.png)
+![picture](assets/images/menudrop.jpg)
 
 ** Additional Features **
 
