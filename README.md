@@ -31,13 +31,14 @@ Click <a href="https://muhammad-mo.github.io/Muhammad-portfolio/" target="blank"
 
 # Inital Design with Wireframe
 
-The overall website's was planned with one page with several sections hilighting important aspects about me
+The overall website's was planned with one page with several sections hilighting important aspects about me.
 
 ![picture](assets/images/wireframe.png)
 
 # Fetures & Layout
 
-The final product of the different webpages came out as intended displaying one page with different sections
+The final product of the different webpages came out as intended displaying one page with different sections.
+I utilised the <section> tags to achieve a single page with different sections.
 
 ![picture](assets/images/screenshot.png)
 
@@ -51,11 +52,46 @@ The website has a total of 7 sections. Each section can be navigated with the us
 6. Favourite Coding Resources
 7. Favourite Coding Challenges
 
+** Navigation Bar **
+
 ![picture](assets/images/sidenavbar.png)
 
-Each menu item of the navbar will magnify when clicked
+Each menu item of the navbar will magnify when clicked.
 
 ![picture](assets/images/sidenavbar2.png)
+
+** Responsiveness **
+
+The screen responds well to various mobile devices.
+
+![picture](assets/images/responsive.png)
+
+A hamburger type menu button drops down when pressed, revealing the different menu itmes allowing the users to navigate to different sections.
+
+![picture](assets/images/menudrop.png)
+
+** Additional Features **
+
+I utilised a simple bototsrap card feature to display my favoutite coding website.
+
+![picture](assets/images/cards.png)
+
+A sticky note feature is implemenetd to hilight my achievements.
+
+![picture](assets/images/stickynote.png)
+
+To further showcamse my understanding of HTML and CSS, I implemented a carousel from Bootstrap and modified the width and height of the carousel cards and images so that it will appear as how I wanted them to appear.
+
+![picture](assets/images/carouel.png)
+
+
+
+
+
+
+
+
+
 
 
 
