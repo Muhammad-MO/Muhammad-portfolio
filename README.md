@@ -82,7 +82,7 @@ A sticky note feature is implemenetd to hilight my achievements.
 
 To further showcamse my understanding of HTML and CSS, I implemented a carousel from Bootstrap and modified the width and height of the carousel cards and images so that it will appear as how I wanted them to appear.
 
-![picture](assets/images/carouel.png)
+![picture](assets/images/carosuel.png)
 
 
 
