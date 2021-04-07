@@ -106,12 +106,6 @@ abbr[data-original-title] {
   -webkit-text-decoration-skip-ink: none;
    
 }
-/*
-address {
-  margin-bottom: 1rem;
-  font-style: normal;
-  line-height: inherit;
-}*/
 
 ol,
 ul,
@@ -547,7 +541,7 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-
+/* responsiveness*/
 .container,
 .container-fluid,
 .container-xl,
