@@ -6,14 +6,14 @@ I decided to go for a simple, fresh and easy to navigate webpage so that the use
 and favourite websites. I chose a blue theme because blue is my favourite color.
 Working on this website allows me to improve my knowledge on using HTML and CSS code aided with bootstrap.
 Specifically this project allows me to deepend my knowledge on
-1) Using boostrap to make responsive websites with the help of 'container'
-2) Using bootstrap to make navigation links with hanburger toggler button when screen resizes
-3) Attaching images
-4) Utilizing cards and diff css properties to make sticky notes effect
-5) Positioning of text and images
-6) Adjusting CSS styles to suit my website's design
-7) RUnning code through validators encourages me to apply correct syntax
-8) Applying padding and margin to text and images
+1) Using boostrap to make responsive websites with the help of @media-width.
+2) Using bootstrap to make navigation links with hanburger toggler button when screen resizes.
+3) Attaching images.
+4) Utilizing cards and different css properties to make sticky notes effect.
+5) Positioning of text and images.
+6) Adjusting CSS styles to suit my website's design.
+7) Running code through validators encourages me to apply correct syntax.
+8) Applying padding and margin to text and images.
 
 ![picture](assets/images/screenshot.png)
 
@@ -58,6 +58,7 @@ The website has a total of 7 sections. Each section can be navigated with the us
 ![picture](assets/images/sidenavbar.png)
 
 Each menu item of the navbar will magnify when clicked.
+clicking on each items will bring the user to the respective sections of the page.
 
 ![picture](assets/images/sidenavbar2.png)
 
@@ -81,14 +82,9 @@ A sticky note feature is implemenetd to hilight my achievements.
 
 ![picture](assets/images/stickynote.png)
 
-To further showcamse my understanding of HTML and CSS, I implemented a carousel from Bootstrap and modified the width and height of the carousel cards and images so that it will appear as how I wanted them to appear.
+To further showcase my understanding of HTML and CSS, I implemented a carousel from Bootstrap and modified the width and height of the carousel cards and images so that it will appear as how I wanted them to appear.
 
 ![picture](assets/images/carosuel.png)
-
-** Code Validator **
-The code was put through th Jigsaw and W3 markup validator and the results are in the screenshot below
-![picture](assets/images/HTMLchecker.png)
-![picture](assets/images/w3c.png)
 
 ** Social Media **
 Clicking on the social media icons brings the user to my social media page which was displayed in in another tab/window.
@@ -98,6 +94,13 @@ I achieved this by setting the "target" = blank  within the <a></a> link.
 
 ![picture](assets/images/socialmedia.png)
 
+** Code Validator **
+The code was put through th Jigsaw and W3 markup validator and the results are in the screenshot below.
+![picture](assets/images/HTMLchecker.png)
+![picture](assets/images/w3c.png)
+
+
+
 # Features left to implement
 
 Future coding projetcs can be uploaaded for potential employers to  access my coding skills.
@@ -106,16 +109,11 @@ Future coding projetcs can be uploaaded for potential employers to  access my co
 
 My site was deployed using Github's paltform.<a href="https://muhammad-mo.github.io/Muhammad-portfolio/" target="blank">Click here</a> to see the webpage
 
-# Content
-
-All content was authored by me.
-
 # Media
 
 Pictures for the carousel were taken from the respective websites.
 1) https://theultralinx.com/ 
 2) https://www.realsimple.com/
-
 
 # Credit
 
