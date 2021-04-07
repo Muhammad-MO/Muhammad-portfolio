@@ -15,6 +15,8 @@ Specifically this project allows me to deepend my knowledge on
 7) Running code through validators encourages me to apply correct syntax.
 8) Applying padding and margin to text and images.
 
+** Some information used in this website are for illustration purposes only and not used for actual hiring **
+
 ![picture](assets/images/screenshot.png)
 
 # demo link
