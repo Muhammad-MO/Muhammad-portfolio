@@ -84,7 +84,7 @@ A sticky note feature is implemenetd to hilight my achievements.
 
 To further showcase my understanding of HTML and CSS, I implemented a carousel from Bootstrap and modified the width and height of the carousel cards and images so that it will appear as how I wanted them to appear.
 
-![picture](assets/images/carousuel.png)
+![picture](assets/images/carousel.png)
 
 ** Social Media **
 Clicking on the social media icons brings the user to my social media page which was displayed in in another tab/window.
